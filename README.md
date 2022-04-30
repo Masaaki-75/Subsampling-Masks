@@ -10,6 +10,8 @@ which can be obtained by running `demo.py` (just remember to set your local path
 <table>
     <tr>
         <td ><center><img width="400" height="400" src="https://github.com/Masaaki-75/Subsampling-Masks/blob/main/figs/masks_annular.png"><div align = "center">origin</div></td>
+        <td ><center><img src="https://github.com/Masaaki-75/Subsampling-Masks/blob/main/figs/masks_disk.png"><div align = "center">Class results1</div></center></td>
+       
     </tr>
 </table>
 
