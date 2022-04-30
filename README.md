@@ -9,7 +9,7 @@ which can be obtained by running `demo.py` (just remember to set your local path
 
 <table>
     <tr>
-        <td ><center><img src="https://github.com/Masaaki-75/Subsampling-Masks/figs/masks_annular.png"><div align = "center">origin</div></td>
+        <td ><center><img src="https://github.com/Masaaki-75/Subsampling-Masks/tree/main/figs/masks_annular.png"><div align = "center">origin</div></td>
     </tr>
 </table>
 
