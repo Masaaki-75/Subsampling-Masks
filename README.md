@@ -21,5 +21,5 @@ For detailed information, please see the comments in `subsampling.py`.
 
 
 # 3. TODO
-- Code optimization.
-- Implementations of other subsampling masks generation (e.g. poisson disk, uniform, ...).
+- Code optimization
+- Implementations of other subsampling masks generation (e.g. poisson disk, uniform, ...)
