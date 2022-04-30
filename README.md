@@ -14,10 +14,11 @@ For detailed information, please see the comments in `subsampling.py`.
 <img src="https://github.com/Masaaki-75/Subsampling-Masks/blob/main/figs/masks_ripple.png">
 <img src="https://github.com/Masaaki-75/Subsampling-Masks/blob/main/figs/masks_spiral.png">
 
-# 2. Dependencies
-- python==3.6.5<br>
-- skimage==0.19.2<br>
+# 2. Environment
+- python==3.7
+- skimage==0.19.2
 - numpy==1.21.6
+- matplotlib==3.5.1
 
 
 # 3. TODO
