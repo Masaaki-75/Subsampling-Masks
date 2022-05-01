@@ -21,6 +21,6 @@ For detailed information, please see the comments in `subsampling.py`.
 - matplotlib==3.5.1
 
 
-# 3. TODO
+# 3. T
 - Code optimization
 - Implementations of other subsampling masks generation (e.g. poisson disk, uniform, ...)
